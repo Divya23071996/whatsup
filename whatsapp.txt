@@ -3,3 +3,5 @@ Chat
 profile
 last seen
 status
+audio call
+video call
